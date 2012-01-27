@@ -1,0 +1,3 @@
+This plugin is pretty simple and easy to use. Add the appropriate settings from the config-info.yml into your ~/.siriproxy/config.yml and bundle then start SiriProxy.
+To start talking to Cleverbot just say "Talk to/with Cleverbot". Response is a little slow...it does have to post everything you say to the internet and then wait for Cleverbot to respond and then retrieve Cleverbot's response...so be patient.
+To stop talking to Cleverbot all you do is say "Goodbye" for your next response.

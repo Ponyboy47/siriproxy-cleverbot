@@ -1,0 +1,10 @@
+# Example configuration options that can be placed in your main SiriProxy config.yml
+
+############################################
+# NOTICE: Modifying these options in this 
+#         file has no effect. You must put 
+#         them in SiriProxy's ~/.siriproxy/config.yml
+############################################
+
+    - name: 'Cleverbot'
+      git: 'git://github.com/Ponyboy47/siriproxy-cleverbot.git'
